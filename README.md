@@ -12,8 +12,6 @@ This project using open source ROS packages from Turtlebot 3 and AMCL.
 
 ### Result
 
-Picking up
-![alt text](/image/Picking_up.png)
+Picking up ![alt text](/image/Picking up.png)
 
-Dropping off
-![alt text](/image/dropping off.png)
+Dropping off ![alt text](/image/dropping off.png)
